@@ -1,8 +1,7 @@
-## Fibonacci
+# MIPS Assembly Fibonacci Sequence Print
 
-Method in MIPS assembly which prints all Fibonacci numbers from 0 to n with linear time complexity, O(n).
+***2nd Year Computer Science Project at the University of Birmingham***
 
-## Find Anagrams
+Program in MIPS assembly which prints all Fibonacci numbers from 0 to n in linear time complexity, O(n).
 
-Method in MIPS assembly which finds the number of anagrams of an input string found in a list of strings.
-
+The program can be run using [Simulizer](https://github.com/Simulizer/Simulizer).
